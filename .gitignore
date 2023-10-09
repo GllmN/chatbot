@@ -1,0 +1,15 @@
+# Fichier de débogage
+*.log
+
+# Dossier de sortie TypeScript
+/dist
+
+# Dossier de modules Node
+/node_modules
+
+# Fichier d'environnement
+/.env
+
+# Fichies de l'IDE
+.idea/
+.vscode/
