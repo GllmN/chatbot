@@ -7,7 +7,7 @@ console.log(process.env.OPENAI_API_KEY)
 //Setting up the connection
 const openai = new OpenAI({
     apiKey: process.env["OPENAI_API_KEY"]
-    //apiKey : "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"
+    //apiKey : "..."
 })
 
 async function test() {
